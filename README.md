@@ -11,10 +11,4 @@ Win the Game: The first player to reach or exceed the final position on the boar
 
 
 
-Fork the Repository: Click the "Fork" button at the top right of this page.
-Clone Your Fork:
-sh
-Copy code
-git clone https://github.com/Digitalastra/snake-and-ladder-game.git
 
-Open a Pull Request: Go to the repository on GitHub and click "New Pull Request".
